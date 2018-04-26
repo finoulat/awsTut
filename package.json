@@ -1,0 +1,22 @@
+{
+  "name": "awstut",
+  "version": "1.0.0",
+  "description": "aws sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finoulat/awsTut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finoulat/awsTut/issues"
+  },
+  "homepage": "https://github.com/finoulat/awsTut#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
